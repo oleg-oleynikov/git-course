@@ -1,2 +1,2 @@
-alert('Hello, Git');
+alert('Hello, Git!');
 consol.log('Test 2')
